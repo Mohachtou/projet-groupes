@@ -1,0 +1,10 @@
+MarkupSafe
+random
+scrapetube
+openai
+option_menu
+BeautifulSoup
+YouTube
+requests
+numpy
+pandas
