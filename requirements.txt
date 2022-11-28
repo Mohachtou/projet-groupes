@@ -3,7 +3,7 @@ scrapetube
 openai
 streamlit_option_menu
 BeautifulSoup4
-YouTube
+pytube
 requests
 numpy
 pandas
