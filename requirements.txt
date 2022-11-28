@@ -8,3 +8,4 @@ YouTube
 requests
 numpy
 pandas
+pip
