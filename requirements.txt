@@ -1,5 +1,4 @@
 MarkupSafe==1.1.1
-random
 scrapetube
 openai
 option_menu
